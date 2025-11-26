@@ -59,7 +59,7 @@ int main()
 ---
 
 ## 🖥️ Example Output:
-String1 = Ahmed Yaser
+String1 = Ahmed Ghanem
 
 Number of words: 2
 
