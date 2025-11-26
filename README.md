@@ -17,7 +17,7 @@ The main idea is to **reuse all the string-related functions** we built earlier 
 ---
 
 ## 📂 Project Structure
-📁 Project-8-String-Library-OOP
+📁 Project 5: String Library (OOP)
 
  clsString.h # Header file containing the clsString class and all functions
 
